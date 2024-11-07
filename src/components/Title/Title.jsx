@@ -1,3 +1,4 @@
+//**this code is created by youtube video **//
 import React from 'react'
 import './Title.css'
 const Title = ({ subtitle, title }) => {
@@ -10,3 +11,4 @@ const Title = ({ subtitle, title }) => {
 }
 
 export default Title
+//**this code is created by youtube video **//

@@ -2,6 +2,7 @@ import React from 'react'
 import './Contact.css'
 import msg_icon from '../../assets/msg-icon.png'
 const Contact = () => {
+  debugger
   return (
     <div className='contact'>
       <div className="contact-text">

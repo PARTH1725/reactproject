@@ -6,6 +6,7 @@ import Title from './components/Title/Title';
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';
 const App = () => {
+  debugger
   return (
     <div>
        
