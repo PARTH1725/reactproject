@@ -5,6 +5,7 @@ import Programs from './components/Programs/Programs';
 import Title from './components/Title/Title';
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 const App = () => {
   debugger
   return (
@@ -19,7 +20,7 @@ const App = () => {
          <About />
          <Title subtitle= 'Send us Message' title='Send us Message whenever You Want'/>
          <Contact />
-         
+         <Footer/>
         </div>
     </div>
   )

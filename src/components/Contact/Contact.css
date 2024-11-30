@@ -26,6 +26,10 @@
     display: flex;
     align-items: center;
 }
+.contact-text ul li img{
+    width:25px;
+    margin-right: 10px;
+}
 .contact form input, .contact form textarea{
     display: block;
     width: 100%;
